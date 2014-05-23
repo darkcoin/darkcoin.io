@@ -1,0 +1,71 @@
+/***************************************************
+	ALTERNATIVE FOOTER
+ ***************************************************/
+#footer_alt {
+	position:relative;
+	line-height:22px;	
+	padding:10px 0 60px; 
+	opacity:1.0;
+	background:#222; 
+	margin:-20px 0 0px; 
+}
+
+#footer_alt  li {
+	padding:0px 15px 5px 0;
+	margin:0px 0px 5px 0px;
+	border-bottom: 1px #444 solid;
+	line-height:22px;
+}
+
+#footer_alt  li:last-child { border-bottom: 0; padding-bottom: 0; margin-bottom: 0; }
+#footer_alt  .span3 a { color:#999; }
+#footer_alt  .span3 a:hover { color:#eee; }
+#footer_alt  h6 {
+	font-size:12px ;
+	color: #999;
+	letter-spacing:1px;
+	text-transform:uppercase;
+	margin-bottom:10px;
+	padding:0 0 10px;
+	font-weight:700;
+	letter-spacing:0.15em;
+}
+#footer_alt  h5 { font-size:16px; color: #888; }
+#footer_alt  .span3 { padding:20px 0 0px; color:#777; }
+
+/* Flickr */	
+.flickrs {margin-right:0px; padding-top:4px; margin-top:-5px;}
+.FlickrImages li {
+	margin: 0 4px 4px 0 !important;
+	padding:0 !important;
+	float:left;	
+	border:0 !important;
+}
+.FlickrImages li a {
+	display:block;
+	width:100% !important; height:100% !important;
+	overflow:hidden;
+	float:left;	
+}
+.FlickrImages li a img { width:100% !important; height:48px!important; opacity:1; }
+
+/*Social Icons */
+.follow_us2 {text-align:left; }
+.follow_us2 a { 
+	font-size:10px;
+	padding:6px 0px 8px 4px;
+	margin:10px 4px 0px 0px;
+	width:30px;
+	text-align: center;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;color:#666;
+	
+}
+#footer_alt  .span3 .follow_us2 a { color:#fff; }
+.copyright {color:#666; margin-top:10px;}
+#footer_alt ul { padding:0; margin:0; list-style:none; }
+#footer_alt i { margin-right:10px;margin-left:1px; }
+
+
