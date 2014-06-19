@@ -679,6 +679,7 @@ a.text-warning:focus {
 
 .text-error {
   color: #b94a48;
+  font-weight: 800;
 }
 
 a.text-error:hover,
